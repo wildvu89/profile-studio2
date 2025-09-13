@@ -1,19 +1,11 @@
 {
-  "name": "profile-studio-sqlite",
+  "name": "profile-studio2",
   "version": "1.0.0",
-  "description": "Profile Studio - Express + SQLite backend, frontend with Cropper presets and export quality.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
-    "multer": "^1.4.5-lts.1",
-    "cors": "^2.8.5",
-    "sqlite3": "^5.1.6",
-    "better-sqlite3": "^8.1.0"
-  },
-  "engines": {
-    "node": ">=16"
+    "express": "^4.18.2"
   }
 }
