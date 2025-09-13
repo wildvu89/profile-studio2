@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "title": "Album 1",
+    "photos": [
+      {"id": 1, "url": "images/photo1.jpg", "comment": "Ảnh 1", "likes": 5},
+      {"id": 2, "url": "images/photo2.jpg", "comment": "Ảnh 2", "likes": 3}
+    ]
+  }
+]
